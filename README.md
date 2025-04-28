@@ -26,7 +26,7 @@ These scripts:
 4. Run a test on Guides class.
 
 ## VIDEO
-[Link] https://drive.google.com/file/d/1E8zF7_Jg7XKPTap2DgGP1ZtHAHlSQLet/view?usp=sharing).
+[Link](https://drive.google.com/file/d/1E8zF7_Jg7XKPTap2DgGP1ZtHAHlSQLet/view?usp=sharing).
 
 ## Contact
 Reach me at [mrkursin@vk.com](mailto:mrkursin@vk.com) or [LinkedIn](https://www.linkedin.com/in/roman-kursin-81343534b/).
